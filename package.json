@@ -1,6 +1,6 @@
 {
-  "version": "14.0.2",
-  "name": "twemoji",
+  "version": "14.0.2-svg",
+  "name": "twemoji-svg",
   "license": [
     "MIT",
     "CC-BY-4.0"
@@ -45,6 +45,7 @@
     "universalify": "^0.1.2"
   },
   "files": [
+    "*",
     "dist/twemoji*.js",
     "index.d.ts"
   ]
